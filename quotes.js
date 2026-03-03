@@ -317,6 +317,116 @@ const quotes = [
     character: "The Seventh Doctor",
     story: "Remembrance of the Daleks"
   },
+  {
+    text: "One may tolerate a world of demons for the sake of an angel.",
+    character: "Madame De Pompadour",
+    story: "The Girl in the Fireplace"
+  },
+  {
+    text: "It is customary, I think, to have an imaginary friend only during one's childhood. You are to be congratulated on your persistence Doctor.",
+    character: "Madame De Pompadour",
+    story: "The Girl in the Fireplace"
+  },
+  {
+    text: "Discussion is for the wise or the helpless and I am neither.",
+    character: "Leela",
+    story: "The Invasion of Time"
+  },
+  {
+    text: "I think you should do a scan for alien tech. Give me some Spock for once. Would it kill you?",
+    character: "Rose Tyler",
+    story: "The Empty Child"
+  },
+  {
+    text: "What is the one thing evil cannot face—not ever? Itself.",
+    character: "The Fifth Doctor",
+    story: "Kinda"
+  },
+  {
+    text: "There’s always something to look at if you open your eyes!",
+    character: "The Fifth Doctor",
+    story: "Kinda"
+  },
+  {
+    text: "Time travel is like visiting Paris. You can’t just read the guidebook, you’ve got to throw yourself in. Eat the food, use the wrong verbs, get charged double and end up kissing complete strangers.",
+    character: "The Ninth Doctor",
+    story: "The Long Game"
+  },
+  {
+    text: "As we learn about each other, so we learn about ourselves.",
+    character: "The First Doctor",
+    story: "The Edge of Destruction"
+  },
+  {
+    text: "Answers are easy. It’s asking the right questions which is hard.",
+    character: "The Fourth Doctor",
+    story: "The Face of Evil"
+  },
+  {
+    text: "People who talk about infallibility are usually on very shaky ground.",
+    character: "The Third Doctor",
+    story: "The Mind of Evil"
+  },
+  {
+    text: "If people see you mean them no harm, they never hurt you—9 times out of 10.",
+    character: "The Fourth Doctor",
+    story: "The Face of Evil"
+  },
+  {
+    text: "Small though it is, the human brain can be quite effective when working at full efficiency.",
+    character: "The Sixth Doctor",
+    story: "The Two Doctors"
+  },
+  {
+    text: "You're Not My Boss. You're One Of My Hobbies.",
+    character: "Clara Oswald",
+    story: "Into the Dalek"
+  },
+  {
+    text: "The secret is not just to be stunning, which I find comes rather easily, to be honest. The tricky thing is getting exactly the right level of stun for the occasion.",
+    character: "River Song",
+    story: "The Angels Take Manhattan"
+  },
+  {
+    text: "Never be certain of anything. It’s a sign of weakness.",
+    character: "The Fourth Doctor",
+    story: "The Face of Evil"
+  },
+  {
+    text: "Amy Pond, there’s something you’d better understand about me ‘cause it’s important, and one day your life may depend on it: I am definitely a madman with a box!",
+    character: "The Eleventh Doctor",
+    story: "The Eleventh Hour"
+  },
+  {
+    text: "I don’t know. I can’t tell the future I just work there.",
+    character: "The Eleventh Doctor",
+    story: "The Bells of Saint John"
+  },
+  {
+    text: "It is difficult to know what will be a waste of time until after the time has been wasted, by which time it is too late. So predicting what will be a waste of time is something of a waste of time. Unless it gives you pleasure, of course when it probably doesn’t count as a waste of time.",
+    character: "The Fourth Doctor",
+    story: "Genesis of the Daleks"
+  },
+  {
+    text: "Something pretty bad’s happening nearby in the space-time continuum. The TARDIS is a terrible rubbernecker — like a little old lady, she can’t resist slowing down for a gawp at a car crash in the next lane. Bless.",
+    character: "The Tenth Doctor",
+    story: "The Runaway Bride"
+  },
+  {
+    text: "My back’s playing up. It simply refuses to carry the weight of an entirely pointless stratum of society who contribute nothing of worth to the world and crush the hopes and dreams of working people.",
+    character: "The Twelfth Doctor",
+    story: "The Husbands of River Song"
+  },
+  {
+    text: "For some people, small, beautiful events are what life is all about.",
+    character: "The Fifth Doctor",
+    story: "The Resurrection of the Daleks"
+  },
+  {
+    text: "There’s something that doesn’t make sense. Let’s go and poke it with a stick.",
+    character: "The Eleventh Doctor",
+    story: "Amy's Choice"
+  }
 ];
 
 export default quotes;
