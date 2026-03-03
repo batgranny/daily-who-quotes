@@ -1,0 +1,127 @@
+/* Flat Light Theme for E-Ink Display */
+:root {
+  --bg-light: #FFFFFF;
+  --text-primary: #000000;
+  --text-secondary: #333333;
+  --accent: #000000;
+  --border-color: #000000;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background-color: var(--bg-light);
+  color: var(--text-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+main {
+  width: 100%;
+  max-width: 800px;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+}
+
+h1 {
+  font-weight: 700;
+  letter-spacing: 0.1rem;
+  text-transform: uppercase;
+  color: var(--text-primary);
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  border-bottom: 2px solid var(--border-color);
+  padding-bottom: 0.5rem;
+}
+
+/* Flat Quote Container */
+.quote-container {
+  background: var(--bg-light);
+  border: 3px solid var(--border-color);
+  padding: 3rem;
+  text-align: center;
+  width: 100%;
+
+  /* Initial State for Animation (kept simple for e-ink, just opacity or none if requested, but simple fade is usually okay if the device supports any refresh, though instantaneous is better for e-ink. Let's make it instantaneous to avoid ghosting) */
+  display: none;
+}
+
+.quote-container.visible {
+  display: block;
+}
+
+.quote-text {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.4;
+  margin-bottom: 2rem;
+  color: var(--text-primary);
+  font-style: italic;
+}
+
+.quote-meta {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.quote-character {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  text-transform: uppercase;
+  letter-spacing: 0.05rem;
+}
+
+.quote-story {
+  font-size: 1rem;
+  color: var(--text-secondary);
+  font-weight: 500;
+}
+
+/* Refresh Button */
+.button-container {
+  margin-top: 2rem;
+}
+
+.new-quote-btn {
+  background: var(--bg-light);
+  color: var(--text-primary);
+  border: 2px solid var(--border-color);
+  padding: 0.75rem 2rem;
+  font-size: 1rem;
+  font-weight: 700;
+  cursor: pointer;
+  font-family: inherit;
+  text-transform: uppercase;
+  letter-spacing: 0.05rem;
+}
+
+.new-quote-btn:hover,
+.new-quote-btn:active {
+  background: var(--text-primary);
+  color: var(--bg-light);
+}
+
+@media (max-width: 600px) {
+  .quote-container {
+    padding: 2rem 1.5rem;
+    border-width: 2px;
+  }
+
+  .quote-text {
+    font-size: 1.5rem;
+  }
+}
