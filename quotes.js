@@ -308,7 +308,7 @@ const quotes = [
     story: "Robot"
   },
   {
-    text: "All your little tin soldiers. But tell me sir, will they thank you? What do you know of history, sir? What do you know of next year? 1914, sir. Because the Family has traveled far and wide looking for Mr Smith and oh, the things we have seen. War is coming. In foreign fields, war of the whole wide world, with all your boys falling down in the mud. Do you think they will thank the man who taught them it was glorious?",
+    text: "What do you know of 1914, sir? Because the Family has traveled far and wide looking for Mr Smith and oh, the things we have seen! War is coming. In foreign fields, war of the whole wide world, with all your boys falling down in the mud. Do you think they will thank the man who taught them it was glorious?",
     character: "Baines",
     story: "The Family of Blood"
   },
