@@ -173,7 +173,7 @@ const quotes = [
     story: "The Snowmen"
   },
   {
-    text: "This is not war, this is pest control.",
+    text: "THIS IS NOT WAR, THIS IS PEST CONTROL",
     character: "Dalek Sec",
     story: "Doomsday"
   },
@@ -436,6 +436,11 @@ const quotes = [
     text: "There is a distinct element of risk in what I'm asking you all to do, so if anyone wishes to leave they must do so at once. Not you, Jamie.",
     character: "The Second Doctor",
     story: "Tomb of the Cybermen"
+  },
+  {
+    text: "DALEKS DO NOT HAVE MANAGERS!",
+    character: "A Dalek",
+    story: "Eve of the Daleks"
   }
 ];
 
