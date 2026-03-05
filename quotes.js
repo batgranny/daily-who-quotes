@@ -441,6 +441,11 @@ const quotes = [
     text: "DALEKS DO NOT HAVE MANAGERS!",
     character: "A Dalek",
     story: "Eve of the Daleks"
+  },
+  {
+    text: "In 193 years there's a total renegotiation of the human/sheep relationship. Utter bloodbath.",
+    character: "The Thirteenth Doctor",
+    story: "It Takes You Away"
   }
 ];
 
