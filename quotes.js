@@ -308,7 +308,7 @@ const quotes = [
     story: "Robot"
   },
   {
-    text: "What do you know of 1914, sir? Because the Family has traveled far and wide looking for Mr Smith and oh, the things we have seen! War is coming. In foreign fields, war of the whole wide world, with all your boys falling down in the mud. Do you think they will thank the man who taught them it was glorious?",
+    text: "What do you know of history, sir? War is coming. In foreign fields, war of the whole wide world, with all your boys falling down in the mud. Do you think they will thank the man who taught them it was glorious?",
     character: "Baines",
     story: "The Family of Blood"
   },
@@ -426,6 +426,16 @@ const quotes = [
     text: "There’s something that doesn’t make sense. Let’s go and poke it with a stick.",
     character: "The Eleventh Doctor",
     story: "Amy's Choice"
+  },
+  {
+    text: "Jenkins! Chap with the wings there, five rounds rapid",
+    character: "The Brigadier",
+    story: "The Daemons"
+  },
+  {
+    text: "There is a distinct element of risk in what I'm asking you all to do, so if anyone wishes to leave they must do so at once. Not you, Jamie.",
+    character: "The Second Doctor",
+    story: "Tomb of the Cybermen"
   }
 ];
 
