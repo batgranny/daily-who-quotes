@@ -68,7 +68,7 @@ const quotes = [
     story: "City of Death"
   },
   {
-    text: "Well that's my job you see, I'm a thief. This is Romana, she's my accomplice. And this is Duggan and it's his job to catch me. You see our lines of work dovetail beautifully",
+    text: "Well that's my job you see, I'm a thief. This is Romana, she's my accomplice. And this is Duggan and it's his job to catch me. You see our lines of work dovetail beautifully.",
     character: "The Fourth Doctor",
     story: "City of Death"
   },
@@ -123,7 +123,7 @@ const quotes = [
     story: "The Witchfinders"
   },
   {
-    text: "Every great decision creates ripples, like a huge boulder dropped in a lake. The ripples merge and rebound off the banks in unforeseeable ways. The heavier the decision, the larger the waves, the more uncertain the consequences..",
+    text: "Every great decision creates ripples, like a huge boulder dropped in a lake. The ripples merge and rebound off the banks in unforeseeable ways. The heavier the decision, the larger the waves, the more uncertain the consequences.",
     character: "The Seventh Doctor",
     story: "Remembrance of the Daleks"
   },
@@ -138,7 +138,7 @@ const quotes = [
     story: "The Green Death"
   },
   {
-    text: "Well, I'm that mysterious adventurer in time and space, known only as Doctor Who, and these are my disposables — Exposition and Comic Relief",
+    text: "Well, I'm that mysterious adventurer in time and space, known only as Doctor Who, and these are my disposables — Exposition and Comic Relief.",
     character: "Missy",
     story: "The Magician's Apprentice"
   },
@@ -178,7 +178,7 @@ const quotes = [
     story: "Doomsday"
   },
   {
-    text: "Quirks? Me?, Oh you're on shaky ground. If you had any more tawdry quirks you could open up a Tawdry Quirk Shop. The madcap vehicle, the cockamamie hair, the clothes designed by a first-year fashion student. I'm surprised you haven't got a little purple space dog just to ram home what an intergalactic wag you are.",
+    text: "Quirks? Me? Oh, you're on shaky ground. If you had any more tawdry quirks you could open up a Tawdry Quirk Shop. The madcap vehicle, the cockamamie hair, the clothes designed by a first-year fashion student. I'm surprised you haven't got a little purple space dog just to ram home what an intergalactic wag you are.",
     character: "The Dream Lord",
     story: "Amy's Choice"
   },
@@ -188,7 +188,7 @@ const quotes = [
     story: "Tooth and Claw"
   },
   {
-    text: "You have the mouth of a prattling jackanapes, but your eyes. They tell a different story",
+    text: "You have the mouth of a prattling jackanapes, but your eyes. They tell a different story.",
     character: "Sharez Jek",
     story: "The Caves of Androzani"
   },
@@ -203,7 +203,7 @@ const quotes = [
     story: "The Face of Evil"
   },
   {
-    text: "here isn't such a thing as prophecy or fate. There are true events. There are things that happen and things that must happen. And none of us can escape those. We don't have to invent myths to make it all worse. We don't have to invent terrible destinies. We all come to them sure enough.",
+    text: "There isn't such a thing as prophecy or fate. There are true events. There are things that happen and things that must happen. And none of us can escape those. We don't have to invent myths to make it all worse. We don't have to invent terrible destinies. We all come to them sure enough.",
     character: "The Eighth Doctor",
     story: "Zagreus"
   },
@@ -273,12 +273,12 @@ const quotes = [
     story: "The Ribos Operation"
   },
   {
-    text: "“There is no indignity in being afraid to die, but there is a terrible shame in being afraid to live.”.",
+    text: "There is no indignity in being afraid to die, but there is a terrible shame in being afraid to live.",
     character: "The First Doctor",
     story: "The Daleks"
   },
   {
-    text: "I just wanted to say, Hello. Hello Doctor. It's so very very nice to meet you.",
+    text: "I just wanted to say, Hello. Hello, Doctor. It's so very very nice to meet you.",
     character: "The TARDIS",
     story: "The Doctor's Wife"
   },
@@ -288,12 +288,12 @@ const quotes = [
     story: "Frontios"
   },
   {
-    text: "My doctorate is purely honorary, and Harry here is only qualified to work on sailors",
+    text: "My doctorate is purely honorary, and Harry here is only qualified to work on sailors.",
     character: "The Fourth Doctor",
     story: "The Ark in Space"
   },
   {
-    text: "Your mind is beginning to work Harry! It's entirely due my influence, of course, you mustn't take any credit.",
+    text: "Your mind is beginning to work, Harry! It's entirely due to my influence, of course, you mustn't take any credit.",
     character: "The Fourth Doctor",
     story: "Revenge of the Cybermen"
   },
@@ -303,17 +303,17 @@ const quotes = [
     story: "Remembrance of the Daleks"
   },
   {
-    text: "THarry, call me old girl again and I'll spit in your eye.",
+    text: "Harry, call me old girl again and I'll spit in your eye.",
     character: "Sarah Jane Smith",
     story: "Robot"
   },
   {
-    text: "All your little tin soldiers. But tell me sir, will they thank you? What do you know of history, sir? What do you know of next year? 1914, sir. Because the Family has traveled far and wide looking for Mr Smith and oh, the things we have seen. War is coming. In foreign fields, war of the whole wide world, with all your boys falling down in the mud. Do you think they will thank the man who taught them it was glorious?",
+    text: "What do you know of history, sir? War is coming. In foreign fields, war of the whole wide world, with all your boys falling down in the mud. Do you think they will thank the man who taught them it was glorious?",
     character: "Baines",
     story: "The Family of Blood"
   },
   {
-    text: "Do you remember the Zygon gambit with the Lock Ness Monster? Or the Yetis in the Underground? Your species has the most amazing capacity for self-deception, matched by only its ingenuity when trying to destroy itself.",
+    text: "Do you remember the Zygon gambit with the Loch Ness Monster? Or the Yetis in the Underground? Your species has the most amazing capacity for self-deception, matched by only its ingenuity when trying to destroy itself.",
     character: "The Seventh Doctor",
     story: "Remembrance of the Daleks"
   },
@@ -323,12 +323,12 @@ const quotes = [
     story: "The Girl in the Fireplace"
   },
   {
-    text: "It is customary, I think, to have an imaginary friend only during one's childhood. You are to be congratulated on your persistence Doctor.",
+    text: "It is customary, I think, to have an imaginary friend only during one's childhood. You are to be congratulated on your persistence, Doctor.",
     character: "Madame De Pompadour",
     story: "The Girl in the Fireplace"
   },
   {
-    text: "Discussion is for the wise or the helpless and I am neither.",
+    text: "Discussion is for the wise or the helpless, and I am neither.",
     character: "Leela",
     story: "The Invasion of Time"
   },
@@ -378,7 +378,7 @@ const quotes = [
     story: "The Two Doctors"
   },
   {
-    text: "You're Not My Boss. You're One Of My Hobbies.",
+    text: "You're not my boss. You're one of my hobbies.",
     character: "Clara Oswald",
     story: "Into the Dalek"
   },
@@ -398,7 +398,7 @@ const quotes = [
     story: "The Eleventh Hour"
   },
   {
-    text: "I don’t know. I can’t tell the future I just work there.",
+    text: "I don’t know. I can’t tell the future, I just work there.",
     character: "The Eleventh Doctor",
     story: "The Bells of Saint John"
   },
@@ -426,6 +426,16 @@ const quotes = [
     text: "There’s something that doesn’t make sense. Let’s go and poke it with a stick.",
     character: "The Eleventh Doctor",
     story: "Amy's Choice"
+  },
+  {
+    text: "Jenkins! Chap with the wings there, five rounds rapid",
+    character: "The Brigadier",
+    story: "The Daemons"
+  },
+  {
+    text: "There is a distinct element of risk in what I'm asking you all to do, so if anyone wishes to leave they must do so at once. Not you, Jamie.",
+    character: "The Second Doctor",
+    story: "Tomb of the Cybermen"
   }
 ];
 
