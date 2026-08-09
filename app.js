@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const storyElement = document.getElementById('quote-story');
     const quoteContainer = document.getElementById('quote-container');
     const button = document.getElementById('new-quote-btn');
+    const mainElement = document.querySelector('main');
 
     let availableIndices = [];
 
@@ -41,6 +42,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             // Fade back in
             quoteContainer.classList.add('visible');
+            mainElement.classList.remove('loading');
         }, 400); // Wait for the transition out
     }
 
